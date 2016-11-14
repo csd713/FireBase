@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "118326480949",
+    "firebase_url": "https://fir-facd4.firebaseio.com",
+    "project_id": "fir-facd4",
+    "storage_bucket": "fir-facd4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118326480949:android:88be619b84f9044a",
+        "android_client_info": {
+          "package_name": "com.nullwelldev.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118326480949-psldlsvm3a06dmnjbqvs2vjuc3pq5ehq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nullwelldev.firebase",
+            "certificate_hash": "49628941002E572EA937EC9E2FA7B045462C6B98"
+          }
+        },
+        {
+          "client_id": "118326480949-1v1o2dkuhceg7elsk78ihpjc9c66b32b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlhX4DjbGOIYS0CtAoRgCi627Ig7FNZw4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118326480949-1v1o2dkuhceg7elsk78ihpjc9c66b32b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
